@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/home/riinav/androidStudioProjects/FacebookLoginTest/build/intermediates/exploded-aar/FacebookLoginTest/facebook/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/riinav/androidStudioProjects/FacebookLoginTest/Scrumptious/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/riinav/androidStudioProjects/FacebookLoginTest/Scrumptious/src/release/assets" />
+    </dataSet>
+
+</merger>
